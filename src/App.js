@@ -4,6 +4,7 @@ import './App.css';
 // import ServiceGrid from './components/ServiceGrid.js'
 // import AmazonHome from './components/AmazonComponents/AmazonHome.js'
 import DockerHome from './components/DockerComponents/DockerHome.js' 
+import HadoopHome from './components/HadoopComponent/HadoopHome.js'
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       {/* <Home/> */}
       {/* <ServiceGrid/> */}
       {/* <AmazonHome/> */}
-      <DockerHome/>
+      {/* <DockerHome/> */}
+      <HadoopHome/>
     </div>
   );
 }
