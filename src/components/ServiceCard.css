@@ -1,0 +1,22 @@
+.ServiceCard{
+    border: 2px solid #3edbf0;
+    margin: 10px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.ServiceCard__icon{
+    width: 10em;
+    color: blueviolet;
+}
+
+.ServiceCard__text{
+    font-family: 'Ubuntu', sans-serif;
+    color: #aa2ee6;
+    margin-top: 1em;
+    font-size: 1.5em;
+}

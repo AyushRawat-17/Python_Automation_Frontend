@@ -1,0 +1,7 @@
+.ServiceGrid{
+    display: grid;
+    grid-template-columns: repeat(3,23%);
+    grid-auto-rows: 17em;
+    justify-content: center;
+    background-color: #a5e1ad;
+}

@@ -1,0 +1,19 @@
+.AmazonHome{
+    background-color: #232F3E;
+    height: 100vh;
+    padding-top: 3em;
+    text-align: center;
+}
+
+.AmazonHome__Icon{
+    height: 5rem;
+    margin: 1.5rem;
+}
+
+.AmazonHome__List{
+    margin: 3em auto;
+    display: grid;
+    grid-template-columns: repeat(2,30%);
+    justify-content: center;
+}
+

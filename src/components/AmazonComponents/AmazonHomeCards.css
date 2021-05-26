@@ -1,0 +1,12 @@
+.AmazonHomeCards{
+    color: white;
+    height: 8em;
+    border-radius: 8px;
+    text-align: center;
+    width: 20em;
+    margin: 1.1em auto;
+    border: none;
+}
+.AmazonHomeCards:hover{
+    cursor: pointer;
+}
