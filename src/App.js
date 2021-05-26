@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 // import LinuxHome from './components/LinuxComponent/LinuxHome';
 // import WebserverHome from './components/WebserverComponent/WebserverHome';
-// import Home from './Home'
-// import ServiceGrid from './components/ServiceGrid.js'
+// import Home from './components/HomeComponents/Home'
+// import ServiceGrid from './components/ServiceCard/ServiceGrid'
 // import AmazonHome from './components/AmazonComponents/AmazonHome.js'
 // import DockerHome from './components/DockerComponents/DockerHome.js' 
 // import HadoopHome from './components/HadoopComponent/HadoopHome.js'
