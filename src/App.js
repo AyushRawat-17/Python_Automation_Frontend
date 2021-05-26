@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import LinuxHome from './components/LinuxComponent/LinuxHome';
+// import LinuxHome from './components/LinuxComponent/LinuxHome';
+// import WebserverHome from './components/WebserverComponent/WebserverHome';
 // import Home from './Home'
 // import ServiceGrid from './components/ServiceGrid.js'
 // import AmazonHome from './components/AmazonComponents/AmazonHome.js'
@@ -15,7 +16,8 @@ function App() {
       {/* <AmazonHome/> */}
       {/* <DockerHome/> */}
       {/* <HadoopHome/> */}
-      <LinuxHome/>
+      {/* <LinuxHome/> */}
+      {/* <WebserverHome/> */}
     </div>
   );
 }
