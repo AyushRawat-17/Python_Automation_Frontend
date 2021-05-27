@@ -1,0 +1,12 @@
+.ServiceCardHome{
+    background: linear-gradient(90deg, #12337a, #275e9e, rgba(68,139,186,1));
+    height: max-content;
+    text-align: center;
+}
+
+.ServiceCardHome__Title{
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 4em;
+    margin-bottom: 0.3em;
+    color: #fff;
+}
