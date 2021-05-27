@@ -1,4 +1,18 @@
+.DockerHome{
+    text-align: center;
+    background-color: #2496ED;
+    height: max-content;
+}
+
 .DockerHome__Icon{
-    height: 5rem;
+    height: 8rem;
     margin: 1.5rem;
+}
+
+.DockerHome__ButtonGroup{
+    display: flex;
+    margin-top: 1.5em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

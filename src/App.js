@@ -5,7 +5,7 @@ import './App.css';
 // import Home from './components/HomeComponents/Home'
 // import ServiceGrid from './components/ServiceCard/ServiceGrid'
 // import AmazonHome from './components/AmazonComponents/AmazonHome.js'
-// import DockerHome from './components/DockerComponents/DockerHome.js' 
+import DockerHome from './components/DockerComponents/DockerHome.js' 
 // import HadoopHome from './components/HadoopComponent/HadoopHome.js'
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       {/* <Home/> */}
       {/* <ServiceGrid/> */}
       {/* <AmazonHome/> */}
-      {/* <DockerHome/> */}
+      <DockerHome/>
       {/* <HadoopHome/> */}
       {/* <LinuxHome/> */}
       {/* <WebserverHome/> */}
