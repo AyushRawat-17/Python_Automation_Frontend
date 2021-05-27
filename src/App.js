@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import LinuxHome from './components/LinuxComponent/LinuxHome';
+// import LinuxHome from './components/LinuxComponent/LinuxHome';
 // import WebserverHome from './components/WebserverComponent/WebserverHome';
 // import Home from './components/HomeComponents/Home'
 // import ServiceGrid from './components/ServiceCard/ServiceGrid'
-// import AmazonHome from './components/AmazonComponents/AmazonHome.js'
+import AmazonHome from './components/AmazonComponents/AmazonHome.js'
 // import DockerHome from './components/DockerComponents/DockerHome.js' 
 // import HadoopHome from './components/HadoopComponent/HadoopHome.js'
 
@@ -13,10 +13,10 @@ function App() {
     <div className="App">
       {/* <Home/> */}
       {/* <ServiceGrid/> */}
-      {/* <AmazonHome/> */}
+      <AmazonHome/>
       {/* <DockerHome/> */}
       {/* <HadoopHome/> */}
-      <LinuxHome/>
+      {/* <LinuxHome/> */}
       {/* <WebserverHome/> */}
     </div>
   );

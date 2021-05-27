@@ -6,6 +6,7 @@ function AmazonHomeCards(props) {
     return (
         <div 
             className="AmazonHomeCards" 
+            key ={props.id}
             style={bgColor} onMouseEnter={()=> setbgColor({backgroundColor: "#F39300"})}
             onMouseLeave={()=>setbgColor({backgroundColor:props.bgColors})}> 
                     <h3 className="AmazonHomeCards__Text">{props.text}</h3>
