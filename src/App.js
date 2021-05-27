@@ -4,8 +4,8 @@ import './App.css';
 // import WebserverHome from './components/WebserverComponent/WebserverHome';
 // import Home from './components/HomeComponents/Home'
 // import ServiceGrid from './components/ServiceCard/ServiceGrid'
-// import AmazonHome from './components/AmazonComponents/AmazonHome.js'
-import DockerHome from './components/DockerComponents/DockerHome.js' 
+import AmazonHome from './components/AmazonComponents/AmazonHome.js'
+// import DockerHome from './components/DockerComponents/DockerHome.js' 
 // import HadoopHome from './components/HadoopComponent/HadoopHome.js'
 
 function App() {
@@ -13,8 +13,8 @@ function App() {
     <div className="App">
       {/* <Home/> */}
       {/* <ServiceGrid/> */}
-      {/* <AmazonHome/> */}
-      <DockerHome/>
+      <AmazonHome/>
+      {/* <DockerHome/> */}
       {/* <HadoopHome/> */}
       {/* <LinuxHome/> */}
       {/* <WebserverHome/> */}
