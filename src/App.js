@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import LinuxHome from './components/LinuxComponent/LinuxHome';
-// import WebserverHome from './components/WebserverComponent/WebserverHome';
+// import LinuxHome from './components/LinuxComponent/LinuxHome';
+import WebserverHome from './components/WebserverComponent/WebserverHome';
 // import Home from './components/HomeComponents/Home'
 // import ServiceGridHome from './components/ServiceCard/ServiceCardHome.js'
 // import AmazonHome from './components/AmazonComponents/AmazonHome.js'
@@ -16,8 +16,8 @@ function App() {
       {/* <AmazonHome/> */}
       {/* <DockerHome/> */}
       {/* <HadoopHome/> */}
-      <LinuxHome/>
-      {/* <WebserverHome/> */}
+      {/* <LinuxHome/> */}
+      <WebserverHome/>
     </div>
   );
 }

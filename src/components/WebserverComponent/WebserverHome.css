@@ -1,4 +1,18 @@
+.WebserverHome{
+    background: rgb(242,63,251);
+    background: linear-gradient(90deg, rgba(242,63,251,1) 0%, rgba(252,70,107,1) 100%);
+    height: 100vh;
+    text-align: center;
+}
+
+.WebserverHome__Title{
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 3em;
+    color: #fff;
+}
+
 .WebserverHome__Icon{
     height: 5rem;
     margin: 1.5rem;
 }
+
