@@ -16,3 +16,11 @@
     margin: 1.5rem;
 }
 
+.WebserverHome__ButtonGroup{
+    display: flex;
+    margin-top: 1.5em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
