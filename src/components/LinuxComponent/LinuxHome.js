@@ -7,6 +7,7 @@ function LinuxHome() {
     return (
         <div className="LinuxHome">
             <img  className="LinuxHome__Icon" src={redhatlogo} alt="#"/>
+            <h2 className="LinuxHome__Text">Linux Command</h2>
             <form>
                 <textarea className="LinuxHome__textfield" placeholder="Enter Command to execute"/>
                 <Button type="submit" className="LinuxHome__button" variant="contained" color="secondary" >
