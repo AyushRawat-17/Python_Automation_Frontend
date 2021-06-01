@@ -16,3 +16,10 @@
     justify-content: center;
     align-items: center;
 }
+
+
+.DockerHome__Text{
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 3em;
+    color: #fff;
+}
