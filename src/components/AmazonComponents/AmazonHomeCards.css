@@ -1,12 +1,19 @@
 .AmazonHomeCards{
-    color: white;
-    height: 5em;
+    color: #fff;
+    height: 4em;
     border-radius: 8px;
     text-align: center;
-    width: 20em;
+    width: 18em;
     margin: 1.1em auto;
     border: none;
+    background-color: #F79B34;
 }
+
+.AmazonHomeCards:hover{
+    color: #F79B34;
+    background-color: #fff;
+}
+
 .AmazonHomeCards:hover{
     cursor: pointer;
 }
@@ -15,6 +22,6 @@
     font-family: 'Baloo Chettan 2', cursive;
     font-weight: bolder;
     font-size: 1.8em;
-    padding: 0.8em;
+    padding: 0.4em;
 }
 

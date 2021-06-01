@@ -6,6 +6,7 @@ function HadoopHome() {
     return (
         <div className="HadoopHome">
             <img  className="HadoopHome__Icon" src={hadooplogo} alt="#"/>
+            <h2 className="HadoopHome__Text">Hadoop Configuration</h2>
         </div>
     )
 }
