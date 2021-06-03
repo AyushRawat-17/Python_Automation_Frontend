@@ -11,6 +11,7 @@ function ServiceGrid() {
                     id={item.id}
                     iconImage={item.iconImage}
                     cardText={item.cardText}
+                    to={item.navpath}
                 />)}
         </div>
     )

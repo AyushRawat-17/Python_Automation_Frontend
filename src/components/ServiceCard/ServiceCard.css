@@ -25,3 +25,8 @@
     font-size: 1.5em;
     font-family: 'Baloo Chettan 2', cursive;
 }
+
+.ServiceCard__Navigation{
+    text-decoration: none;
+    color: inherit;
+}

@@ -18,7 +18,7 @@
     height: 4.5em;
     width: 27em;
     background-color: rgb(255, 243, 70);
-    color: rgb(30, 121, 11);
+    color:rgb(30, 121, 11) ;
     border: none;
     cursor: pointer;
     border-radius: 8px;
@@ -38,4 +38,9 @@
     color: white;
     font-size: 3.5em;
     margin-bottom: 1em;
+}
+
+.Home__Navigation{
+    text-decoration: none;
+    color: inherit;
 }
